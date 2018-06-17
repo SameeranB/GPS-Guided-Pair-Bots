@@ -16,4 +16,8 @@ void calcen(double HilGPSlat,double HilGPSlon, double DulGPSlat, double DulGPSlo
   
   
 }
+<<<<<<< HEAD
 
+=======
+
+>>>>>>> 425c0644723ef0482e6d5344e07b41272a277062
