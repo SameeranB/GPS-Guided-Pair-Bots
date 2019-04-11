@@ -4,7 +4,7 @@ Reg No. - 17BCE0267
 
 STREAM - ELECTRONICS
 
-PROJECT - E 05 - DUO BOT WITH GPS
+PROJECT - GPS Guided Pair-Bots
 
 PLAN - 
 
@@ -15,5 +15,6 @@ TIMELINE -
 https://time.graphics/line/89004
 
 
-
+Description:
+  A pair of ground drones that use an Arduino as a microcontroller and uses live GPS locations to find their way back to each     other.
 .
